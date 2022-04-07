@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       blog
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     "/blog"
-url:         "https://l88ne.github.io"
+baseurl:     "/"
+url:         "http://blog.loone.party"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
