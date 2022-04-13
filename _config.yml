@@ -1,14 +1,13 @@
 # Site settings
 title:       blog
-email:       your_email@example.com
+email:       l8@loone.party
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     "/"
-url:         "http://blog.loone.party"
+url:         "https://blog.loone.party"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
 
 # Google services
 google_verification:
@@ -20,7 +19,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
